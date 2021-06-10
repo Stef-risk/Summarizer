@@ -1,9 +1,7 @@
-Demo
+压缩包中各文件说明
 
+```
+STE_rzer.py ——  不带用户图形界面版的摘要器代码
+STE_rizer(GUI).py  —— 用户图形界面版的摘要器代码
+```
 
-
-#Subfolder
-
-
-
-Stefan Summarizer
